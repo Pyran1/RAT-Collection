@@ -1,2 +1,1 @@
-# RAT-Collection
-Remote Access Trojan collection.(266 Samples of RAT!)
+<div style="text-align: center;"> <h2>⚠️WARNING⚠️</h2> <p>THOSE SAMPLES OF RATS ONLY FOR PERSONAL USE!</p> <p>IM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED BY THOSE PROGRAMS.</p> <p>RATS MAY HAS BUILT-IN MALWARE BE CAREFUL!</p> <h2>INFO</h2> <p>Remote Access Trojan - software to remotly manipulate computer. ❗️</p> <p>Those files are Malware-Builders, not samples.</p> <br> <h3> <b> <a href=#start-of-content>Back to Top</a> </b> </h3> </div>
